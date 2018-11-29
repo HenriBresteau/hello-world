@@ -6,5 +6,5 @@ demo de git.
 =======
 
 on modifie depuis github
-mais assi depuis ma machine local
+mais assi depuis ma machine local et c'est cool
 
