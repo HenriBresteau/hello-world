@@ -1,3 +1,4 @@
 # hello-world
 cc
-j'me présente je m'appel henri.
+je me présente je m'appel henri. 
+demo de git.
